@@ -2,7 +2,8 @@
 A smart mechatronics system for automated medicine dispensing and caregiver monitoring using ESP32.
 # 🏥 Medicine Reminder and Pill Dispenser for Dementia Patients
 
-![Project Banner](Images/Prototype.jpg)
+![Project Banner](<img width="1052" height="1125" alt="image" src="https://github.com/user-attachments/assets/c73210a7-c637-46c1-84fc-90cf75669493" />
+)
 
 ## 📖 Overview
 
